@@ -76,6 +76,7 @@ title: "CHI MNL | CHI2020 Study Group"
         <h4 class = "mt-4">Important Details</h4>
         <ul>
             <li>Deadline of Submitting Presentation Materials - <span class = "font-weight-bold">July 11 (Saturday), 23:59 PST</span></li>
+            <li>Upload your consolidated slides to this <a href="https://drive.google.com/drive/folders/1Cmf4Ov44D0P6ricGq3t_7Qaaf05t4MAx?usp=sharing" target="_blank">Google Drive</a></li>
             <li>Make 1 slide per paper. Maximize the use of images and diagrams</li>
             <li>Consolidate all slides for each session in 1 PDF</li>
             <li>Aspect ratio of slides - <span class = "font-weight-bold">16:9</span></li>
