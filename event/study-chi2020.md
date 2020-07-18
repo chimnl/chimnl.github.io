@@ -74,22 +74,21 @@ title: "CHI MNL | CHI2020 Study Group"
         <p><i>All times are in Philippine Standard Time (GMT+8)</i></p>
         <div class="event-details">
             <ul class="event-schedule">
-                <li class="event-sched-item">18:00-18:10	>> <b>Opening Remarks</b></li>
-                <li class="event-sched-item">18:10-19:40	>> <b>Free selection sessions</b> <i>(17 sessions)</i></li>
+                <li class="event-sched-item">18:00-18:10 >> <b>Opening Remarks</b></li>
+                <li class="event-sched-item">18:10-19:40 >> <b>Free selection sessions</b> <i>(17 sessions)</i></li>
                 <ul>
                     <li>6 | Portrayals & social media by <i>Joshua Manzano</i></li>
                     <li>11 | A closer look at players by <i>Romeo Peña</i></li>
                     <li>29 | Perception of visualizations by <i>Unisse Chua</i></li>
                     <li>32 | Political movement by <i>Ian Ona</i></li>
-                    <li>36 | Automotive & pedestrian interfaces by <i>Briane Samson</i></li>
                     <li>38 | Designing for health by <i>Paolo Delos Reyes</i></li>
                     <li>53 | Gamifying & play by <i>Geremiah Marasigan</i></li>
                     <li>96 | Tutoring & learning by <i>TJ Monserrat</i></li>
-                    <li>107 | On-body interaction by <i>Tyrone Sta. Maria</i></li>
                     <li>112 | AI/ML & seeing through the black box by <i>Ralph Regalado</i></li>
                     <li>140 | Emotional interaction by <i>Adrienne Soliven</i></li>
                     <li>154 | Human factors in design by <i>Thomas Rafael Cruz</i></li>
                     <li>155 | Engineering design & modelling by <i>Jordan Deja</i></li>
+                    <li>107 | On-body interaction by <i>Tyrone Sta. Maria</i></li>
                     <li>23 | Privacy theory & information disclosure by <i>Pranjal Jain</i></li>
                     <li>106 | Privacy & security user experience by <i>Pranjal Jain</i></li>
                     <li>118 | Privacy perceptions & concerns by <i>Pranjal Jain</i></li>
