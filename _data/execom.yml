@@ -29,10 +29,10 @@
   position: "Secretary"
   affiliation: "University of Primorska <br> De La Salle University"
   bio: "Jordan Aiko Deja is a Phd Student at the University of Primorska, Koper, Slovenia. He is part of the Humans Interacting with Computers @ University of Primorska (HICUP) Laboratory where he is doing research on computational interactions and visualizations in augmented reality teaching systems. He is also an Assistant Professor (On-Leave) at De La Salle University, Manila Philippines. He is co-founder of Manila ACM SIGCHI Chapter, Community Lead of UX Philippines."
-  image: "assets/img/execom/jordan.png"
+  image: "assets/img/execom/jordan.jpg"
   socials: ['<a href = "https://www.linkedin.com/in/jrdndj/" target="_blank"><i class="fab fa-linkedin"></i></a>',
   '<a href = "https://twitter.com/jrdndj/" target="_blank"><i class="fab fa-twitter"></i></a>']
-
+  
 
 - name: "Briane Paul V. Samson"
   position: "Membership Chair"
