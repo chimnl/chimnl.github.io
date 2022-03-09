@@ -1,3 +1,13 @@
+- name: "CHI MNL Series 01: Why we teach and do research in HCI"
+  date: "March 17, 2022"  
+  time: "6pm PH Time"
+  day: "Tuesday"
+  description: "Research in Human Computer Interaction (HCI) has always brought the most innovative technologies - from the first mouse, to the GUI all the way to user gestures and mixed reality."
+  image: "../../assets/img/events/chimnl2022series01.png"
+  event_url: "/event/chi-mnl-series-1"
+  status: "upcoming"
+
+
 - name: "Q2 Townhall Meeting"
   date: "June 20, 2020"
   day: Saturday
