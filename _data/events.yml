@@ -1,3 +1,13 @@
+- name: "CHI MNL Series 02: A Panel on HCI Education in the PH"
+  date: "March 22, 2022"  
+  time: "6pm PH Time"
+  day: "Tuesday"
+  description: "Human Computer Interaction (HCI) is a relatively-new course recently-added to the computing programs here in the Philippines. With the covid-19 pandemic, it is more important than ever to share best practices, and equip teachers with proper tools on how to teach this exciting course."
+  image: "../../assets/img/events/chimnl2022series02.png"
+  event_url: "/event/chi-mnl-series-2"
+  status: "upcoming"
+
+
 - name: "CHI MNL Series 01: Why we teach and do research in HCI"
   date: "March 17, 2022"  
   time: "6pm PH Time"
