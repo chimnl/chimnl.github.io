@@ -1,7 +1,11 @@
 ---
 layout: default
 title: "CHI MNL | CHI MNL Series 01: Why we teach and do research in HCI"
-speakers: [ { name: "Briane Paul V. Samson", title: "Associate Professor, DLSU", image: "../../assets/img/execom/briane.jpg" }, { name: "Toni-Jan K Monserrat", title: "Assistant Professor, UPLB", image: "../../assets/img/execom/tj.png" }, { name: "Jordan Aiko Deja", title: "PhD Student, UP FAMNIT", image: "../../assets/img/execom/jordan.jpg" }, { name: "Ralph Vincent Regalado", title: "CEO, Senti AI", image: "../../assets/img/execom/ralph.jpg" } ]
+speakers: [ { name: "Briane Paul V. Samson", title: "Associate Professor, DLSU", image: "../../assets/img/execom/briane.jpg" }, 
+            { name: "Toni-Jan K Monserrat", title: "Assistant Professor, UPLB", image: "../../assets/img/execom/tj.png" }, 
+            { name: "Jordan Aiko Deja", title: "PhD Student, UP FAMNIT", image: "../../assets/img/execom/jordan.jpg" }, 
+            { name: "Ralph Vincent Regalado", title: "CEO, Senti AI", image: "../../assets/img/execom/ralph.jpg" } 
+        ]
 ---
 <style>
     section{
