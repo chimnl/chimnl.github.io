@@ -1,13 +1,36 @@
 ---
 layout: default
 title: "CHI MNL | CHI MNL Series 01: Why we teach and do research in HCI"
-speakers: [ { name: "Beverly Bravo", title: "PLMun", image: "../../assets/img/execom/jordan.jpg" }, 
-            { name: "Toni-Jan K Monserrat", title: "Assistant Professor, UPLB", image: "../../assets/img/execom/tj.png" },  
-            { name: "Ryan Austin Fernandez", title: "DLSU", image: "../../assets/img/execom/ralph.jpg" }, 
-            { name: "Jenilyn Agapito", title: "ADMU", image: "../../assets/img/execom/ralph.jpg" }, 
-            { name: "Briane Paul V. Samson", title: "Moderator", image: "../../assets/img/execom/briane.jpg" } 
+speakers:
+  [
+    {
+      name: "Beverly Bravo",
+      title: "PLMun",
+      image: "../../assets/img/events/beverly.jpg",
+    },
+    {
+      name: "Toni-Jan K Monserrat",
+      title: "Assistant Professor, UPLB",
+      image: "../../assets/img/execom/tj.png",
+    },
+    {
+      name: "Ryan Austin Fernandez",
+      title: "DLSU",
+      image: "../../assets/img/events/austin.jpg",
+    },
+    {
+      name: "Jenilyn Agapito",
+      title: "ADMU",
+      image: "../../assets/img/events/jenilyn.jpg",
+    },
+    {
+      name: "Briane Paul V. Samson",
+      title: "Moderator",
+      image: "../../assets/img/execom/briane.jpg",
+    },
   ]
 ---
+
 <style>
     section{
         padding: 96px 0;
