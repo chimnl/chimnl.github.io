@@ -39,7 +39,7 @@ speakers:
 <section>
     <div class="container">
         <h1>CHI MNL Series 02: A Panel on HCI Education in the PH</h1>
-        <h4 class = "mb-4">March 12, 2022 (Tuesday), 6pm PH Time via Zoom</h4>
+        <h4 class = "mb-4">March 22, 2022 (Tuesday), 6pm PH Time via Zoom</h4>
         <p>Human Computer Interaction (HCI) is a relatively-new course recently-added to the computing programs here in the Philippines. With the covid-19 pandemic, it is more important than ever to share best practices, and equip teachers with proper tools on how to teach this exciting course. This panel is FREE and open to HCI teachers, grad students and like-minded folks. Please register in the link provided.</p>
         <h4>Speakers: </h4>
         <div class = "d-flex flex-wrap justify-content-center my-5">
