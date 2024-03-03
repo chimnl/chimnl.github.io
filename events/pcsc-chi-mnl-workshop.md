@@ -40,7 +40,7 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
         <h3>Submission Guidelines:</h3>
         <ul>
             <li>Abstract Length: 2-4 pages (excluding references)</li>
-            <li>Format: ACM sigconf 2-column format following the PCSC template</li>
+            <li>Format: ACM sigconf 2-column format following the PCSC <a href="http://ccscloud2.dlsu.edu.ph/author-guidelines/paper-templates.html" target="_blank">template</a></li>
             <li>Language: English</li>
             <li>Submission Link: [Submission Link Here]</li>
             <li>Authors are requested to anonymize their submissions.</li>
@@ -51,9 +51,9 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
         <br/>
         <h3>Sample Submissions</h3>
         <p>Authors are invited to check out these submissions if they need help or inspiration regarding their submissions. </p>
-        <p> <b>Interactive Demos:</b> Campos, C., Kljun, M., Sandak, J., & Čopič Pucihar, K. (2023, April). Interactive Paper Displays: Enabling Digital Functionalities on Physical Paper. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-5).</p>
-        <p> <b>Pictorial:</b> La Delfa, J., Baytaş, M. A., Luke, E., Koder, B., & Mueller, F. F. (2020, July). Designing Drone Chi: Unpacking the Thinking and Making of Somaesthetic Human-Drone Interaction. In Proceedings of the 2020 ACM Designing Interactive Systems Conference (pp. 575-586).</p>
-        <p><b>Position Paper:</b> Auda, J., Gruenefeld, U., & Mayer, S. (2020). It Takes Two To Tango: Conflicts Between Users on the Reality-Virtuality Continuum and Their Bystanders. In XR@ ISS.</p>
+        <p> <b>Interactive Demos:</b> Campos, C., Kljun, M., Sandak, J., & Čopič Pucihar, K. (2023, April). Interactive Paper Displays: <a href="https://drive.google.com/file/d/1YYNSkV5-KcypMO4oO0as91GSQWarbZiH/view" target="_blank">Enabling Digital Functionalities on Physical Paper</a>. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-5).</p>
+        <p> <b>Pictorial:</b> La Delfa, J., Baytaş, M. A., Luke, E., Koder, B., & Mueller, F. F. (2020, July). <a href="https://exertiongameslab.org/wp-content/uploads/2020/06/designing_drone_chi_dis2020.pdf" target="_blank">Designing Drone Chi: Unpacking the Thinking and Making of Somaesthetic Human-Drone Interaction.</a> In Proceedings of the 2020 ACM Designing Interactive Systems Conference (pp. 575-586).</p>
+        <p><b>Position Paper:</b> Auda, J., Gruenefeld, U., & Mayer, S. (2020). <a href="https://ceur-ws.org/Vol-2779/paper3.pdf" target="_blank">It Takes Two To Tango: Conflicts Between Users on the Reality-Virtuality Continuum and Their Bystanders.</a> In XR@ ISS.</p>
         <br/>
         <h3>Proceedings</h3>
         <p>Accepted papers will be included in the workshop proceedings, which will be announced soon. The proceedings will be archival and contribute to the dissemination of knowledge and advancements in HCI research in the Philippines.</p>
