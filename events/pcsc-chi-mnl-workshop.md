@@ -23,7 +23,7 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
         <br/>
         <h1>Call for Papers: Transforming HCI Research in the Philippines</h1>
         <br/>
-        <h3>Date & Time: Half-day afternoon workshop, May 9, 2024</h3>
+        <h3>Date & Time: Half-day workshop, May 9, 2024</h3>
         <br/>
         <h3>Objective</h3>
         <p>The aim of this workshop is to catalyze and advance Human-Computer Interaction (HCI) research in the Philippines by fostering collaboration and knowledge exchange among researchers and practitioners. By bringing together diverse perspectives and experiences, we aim to explore innovative approaches and solutions to contemporary HCI challenges in the Philippine context. We invite early-career and experienced researchers alike who are interested in conducting HCI research in the Philippines. </p>
@@ -42,7 +42,7 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
             <li>Abstract Length: 2-4 pages (excluding references)</li>
             <li>Format: ACM sigconf 2-column format following the PCSC <a href="http://ccscloud2.dlsu.edu.ph/author-guidelines/paper-templates.html" target="_blank">template</a></li>
             <li>Language: English</li>
-            <li>Submission Link: [Submission Link Here]</li>
+            <li>Submission Link: <a href="https://cmt3.research.microsoft.com/CHIMNL2024">Microsoft CMT</a></li>
             <li>Authors are requested to anonymize their submissions.</li>
         </ul>
         <br/>
@@ -113,14 +113,14 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
         <p>Manila ACM SIGCHI Chapter</p>
         <br/>
         <h3>Program Committee</h3>
-        <p>Briane Paul V Samson</p>
-        <p>Jordan Aiko Deja</p>
-        <p>Toni-Jan Keith Monserrat</p>
-        <p>Ralph Vincent Regalado</p>
-        <p>Jennifer Teves</p>
-        <p>Nicko Reginio Caluya</p>
-        <p>Ryan Austin Fernandez</p>
-        <p>Jenilyn A. Casano</p>
+        <p>Briane Paul V Samson, De La Salle University, PH</p>
+        <p>Jordan Aiko Deja, De La Salle University, PH</p>
+        <p>Toni-Jan Keith Monserrat, Senti Tech Labs, PH</p>
+        <p>Ralph Vincent Regalado, Senti Tech Labs, PH</p>
+        <p>Jennifer Teves, Teladoc Health, USA</p>
+        <p>Nicko Reginio Caluya, Ritsumeikan University, JP</p>
+        <p>Ryan Austin Fernandez, De La Salle University, PH</p>
+        <p>Jenilyn A. Casano, Ateneo De Manila University, PH</p>
     </div>
 
 </section>
