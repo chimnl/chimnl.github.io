@@ -121,7 +121,7 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
         <p>Nicko Reginio Caluya, Ritsumeikan University, JP</p>
         <p>Ryan Austin Fernandez, De La Salle University, PH</p>
         <p>Isido Butaslac, University of Science and Technology of Southern Philippines, PH</p>
-        <p>Beverly Bravo, University of the City of Muntinlupa, PH</p>
+        <p>Beverly Bravo, University of the City of Muntinlupa and Concentrix Accessibility Support Team, PH</p>
     </div>
 
 </section>
