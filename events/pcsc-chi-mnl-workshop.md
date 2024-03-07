@@ -115,12 +115,13 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
         <h3>Program Committee</h3>
         <p>Briane Paul V Samson, De La Salle University, PH</p>
         <p>Jordan Aiko Deja, De La Salle University, PH</p>
-        <p>Toni-Jan Keith Monserrat, Senti Tech Labs, PH</p>
-        <p>Ralph Vincent Regalado, Senti Tech Labs, PH</p>
+        <p>Toni-Jan Keith Monserrat, Senti AI, PH</p>
+        <p>Ralph Vincent Regalado, Senti AI, PH</p>
         <p>Jennifer Teves, Teladoc Health, USA</p>
         <p>Nicko Reginio Caluya, Ritsumeikan University, JP</p>
         <p>Ryan Austin Fernandez, De La Salle University, PH</p>
-        <p>Jenilyn A. Casano, Ateneo De Manila University, PH</p>
+        <p>Isido Butaslac, University of Science and Technology of Southern Philippines, PH</p>
+        <p>Beverly Bravo, University of the City of Muntinlupa, PH</p>
     </div>
 
 </section>
