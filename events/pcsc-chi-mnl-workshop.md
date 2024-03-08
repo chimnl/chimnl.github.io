@@ -40,7 +40,8 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
         <h3>Submission Guidelines:</h3>
         <ul>
             <li>Abstract Length: 2-4 pages (excluding references)</li>
-            <li>Format: ACM sigconf 2-column format following the PCSC <a href="http://ccscloud2.dlsu.edu.ph/author-guidelines/paper-templates.html" target="_blank">template</a></li>
+            <li>Format (for WIPs, Position Papers and Interactive Demos): ACM sigconf 2-column format following the PCSC <a href="http://ccscloud2.dlsu.edu.ph/author-guidelines/paper-templates.html" target="_blank">template</a></li>
+          <li>Format (for Pictorials): DIS Pictorial Format In <a href="https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-InDesign-template_Folder.zip" target="_blank">In-Design</a>, <a href="https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-Word-template-Folder.zip" target="_blank">MS Word</a>, <a href="https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-PowerPoint-template-Folder.zip" target="_blank">Powerpoint</a> </li>
             <li>Language: English</li>
             <li>Submission Link: <a href="https://cmt3.research.microsoft.com/CHIMNL2024">Microsoft CMT</a></li>
             <li>Authors are requested to anonymize their submissions.</li>
