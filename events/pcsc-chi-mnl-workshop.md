@@ -61,7 +61,7 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
         <br/>
         <h3>Important Dates</h3>
         <ul>
-            <li>Submission Deadline: <s>April 3, 2024 (Wednesday)</s>April 5, 2024 (Friday)</li>
+            <li>Submission Deadline: <s>April 3, 2024 (Wednesday)</s> April 5, 2024 (Friday)</li>
             <li>Notification of Acceptance: April 10, 2024 (Wednesday)</li>
             <li>Submission of Camera-Ready: April 15, 2024 (Monday)</li>
             <li>Workshop Date: May 9, 2024 (Thursday)</li>
