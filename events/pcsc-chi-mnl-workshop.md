@@ -39,7 +39,7 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
         <br/>
         <h3>Submission Guidelines:</h3>
         <ul>
-            <li>Abstract Length: 2-4 pages (excluding references)</li>
+            <li>Submission Length: 2-4 pages (excluding references)</li>
             <li>Format (for WIPs, Position Papers and Interactive Demos): ACM sigconf 2-column format following the PCSC <a href="http://ccscloud2.dlsu.edu.ph/author-guidelines/paper-templates.html" target="_blank">template</a></li>
           <li>Format (for Pictorials): DIS Pictorial Format In <a href="https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-InDesign-template_Folder.zip" target="_blank">In-Design</a>, <a href="https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-Word-template-Folder.zip" target="_blank">MS Word</a>, <a href="https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-PowerPoint-template-Folder.zip" target="_blank">Powerpoint</a> </li>
             <li>Language: English</li>
@@ -61,8 +61,8 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
         <br/>
         <h3>Important Dates</h3>
         <ul>
-            <li>Submission Deadline: <s>April 3, 2024 (Wednesday)</s> April 5, 2024 (Friday)</li>
-            <li>Notification of Acceptance: April 10, 2024 (Wednesday)</li>
+            <li>Submission Deadline: <s>April 3, 2024 (Wednesday)</s> April 7, 2024 (Sunday)</li>
+            <li>Notification of Acceptance: April 12, 2024 (Friday)</li>
             <li>Submission of Camera-Ready: April 15, 2024 (Monday)</li>
             <li>Workshop Date: May 9, 2024 (Thursday)</li>
         </ul>
@@ -123,6 +123,7 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
         <p>Ryan Austin Fernandez, De La Salle University, PH</p>
         <p>Isido Butaslac, University of Science and Technology of Southern Philippines, PH</p>
         <p>Beverly Bravo, University of the City of Muntinlupa and Concentrix Accessibility Support Team, PH</p>
+        <p>Richard Lance Parayno, University of Salzburg, AT and Hostari, USA</p>
     </div>
 
 </section>
