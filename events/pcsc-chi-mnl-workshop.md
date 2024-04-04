@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
+title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines Workshop"
 ---
 
 <style>
@@ -21,12 +21,12 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
 <section>
     <div class="container">
         <br/>
-        <h1>Call for Papers: Transforming HCI Research in the Philippines</h1>
+        <h1>Call for Papers: Transforming HCI Research in the Philippines Workshop</h1>
         <br/>
-        <h3>Date & Time: Half-day workshop, May 9, 2024</h3>
+        <h3>Date & Time: May 9, 2024</h3>
         <br/>
         <h3>Objective</h3>
-        <p>The aim of this workshop is to catalyze and advance Human-Computer Interaction (HCI) research in the Philippines by fostering collaboration and knowledge exchange among researchers and practitioners. By bringing together diverse perspectives and experiences, we aim to explore innovative approaches and solutions to contemporary HCI challenges in the Philippine context. We invite early-career and experienced researchers alike who are interested in conducting HCI research in the Philippines. </p>
+        <p>The aim of this workshop is to catalyze and advance Human-Computer Interaction (HCI) research in the Philippines by fostering collaboration and knowledge exchange among researchers and practitioners. By bringing together diverse perspectives and experiences, we aim to explore innovative approaches and solutions to contemporary HCI challenges in the Philippine context. Over-all, the goal is to provide attendees of the workshop an improved sense of how we can do and grow HCI research in the Philippines. We invite early-career and experienced researchers alike who are interested in conducting HCI research in the Philippines and who share in this mission.  </p>
         <br/>
         <h3>Submissions</h3>
         <p>We invite submissions of works-in-progress, interactive demos, and position papers that contribute to the advancement of HCI research in the Philippines. Submissions should address, but are not limited to, the following topics:</p>
@@ -41,7 +41,7 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
         <ul>
             <li>Submission Length: 2-4 pages (excluding references)</li>
             <li>Format (for WIPs, Position Papers and Interactive Demos): ACM sigconf 2-column format following the PCSC <a href="http://ccscloud2.dlsu.edu.ph/author-guidelines/paper-templates.html" target="_blank">template</a></li>
-          <li>Format (for Pictorials): DIS Pictorial Format In <a href="https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-InDesign-template_Folder.zip" target="_blank">In-Design</a>, <a href="https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-Word-template-Folder.zip" target="_blank">MS Word</a>, <a href="https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-PowerPoint-template-Folder.zip" target="_blank">Powerpoint</a> </li>
+          <li>Format (for Pictorials): DIS Pictorial Format in <a href="https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-InDesign-template_Folder.zip" target="_blank">In-Design</a>, <a href="https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-Word-template-Folder.zip" target="_blank">MS Word</a>, <a href="https://dis.acm.org/2021/wp-content/uploads/2020/12/DIS2021-Pictorials-PowerPoint-template-Folder.zip" target="_blank">Powerpoint</a> </li>
             <li>Language: English</li>
             <li>Submission Link: <a href="https://cmt3.research.microsoft.com/CHIMNL2024">Microsoft CMT</a></li>
             <li>Authors are requested to anonymize their submissions.</li>
@@ -56,14 +56,14 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
         <p> <b>Pictorial:</b> La Delfa, J., Baytaş, M. A., Luke, E., Koder, B., & Mueller, F. F. (2020, July). <a href="https://exertiongameslab.org/wp-content/uploads/2020/06/designing_drone_chi_dis2020.pdf" target="_blank">Designing Drone Chi: Unpacking the Thinking and Making of Somaesthetic Human-Drone Interaction.</a> In Proceedings of the 2020 ACM Designing Interactive Systems Conference (pp. 575-586).</p>
         <p><b>Position Paper:</b> Auda, J., Gruenefeld, U., & Mayer, S. (2020). <a href="https://ceur-ws.org/Vol-2779/paper3.pdf" target="_blank">It Takes Two To Tango: Conflicts Between Users on the Reality-Virtuality Continuum and Their Bystanders.</a> In XR@ ISS.</p>
         <br/>
-        <h3>Proceedings</h3>
-        <p>Accepted papers will be included in the workshop proceedings, which will be announced soon. The proceedings will be archival and contribute to the dissemination of knowledge and advancements in HCI research in the Philippines.</p>
+        <h3>Proceedings and Post Workshop Activities</h3>
+        <p>Accepted papers will be invited for shepherding during the workshop. Authors will be assigned a PC member who will mentor their paper towards producing a publishable output. Successful outputs will be included in the workshop proceedings which will be announced soon. The proceedings will be archival and contribute to the dissemination of knowledge and advancements in HCI research in the Philippines.</p>
         <br/>
         <h3>Important Dates</h3>
         <ul>
             <li>Submission Deadline: <s>April 3, 2024 (Wednesday)</s> April 7, 2024 (Sunday)</li>
             <li>Notification of Acceptance: April 12, 2024 (Friday)</li>
-            <li>Submission of Camera-Ready: April 15, 2024 (Monday)</li>
+            <li>Submission of Camera-Ready: <s>April 15, 2024 (Monday)</s> May 18, 2024 (after workshop) </li>
             <li>Workshop Date: May 9, 2024 (Thursday)</li>
         </ul>
         <br/>
@@ -89,7 +89,7 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
                 </tr>
                 <tr>
                 <td>08:45</td>
-                <td>Lightning Talks</td>
+                <td>Lightning Talks and Interactive Demos</td>
                 </tr>
                 <tr>
                 <td>09:30</td>
@@ -111,18 +111,18 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines"
         </table>
         <br/>
         <h3>Organizing</h3>
-        <p>Manila ACM SIGCHI Chapter</p>
+        <p>This workshop is organized by the Executive Committee of the Manila ACM SIGCHI Chapter with support from the Computing Society of the Philippines and De La Salle University. </p>
         <br/>
         <h3>Program Committee</h3>
         <p>Briane Paul V Samson, De La Salle University, PH</p>
         <p>Jordan Aiko Deja, De La Salle University, PH</p>
         <p>Toni-Jan Keith Monserrat, Senti AI, PH</p>
         <p>Ralph Vincent Regalado, Senti AI, PH</p>
-        <p>Jennifer Teves, Teladoc Health, USA</p>
-        <p>Nicko Reginio Caluya, Ritsumeikan University, JP</p>
-        <p>Ryan Austin Fernandez, De La Salle University, PH</p>
+        <p>Maria Mercedes T. Rodrigo, Ateneo De Manila University, PH</p>
         <p>Isido Butaslac, University of Science and Technology of Southern Philippines, PH</p>
         <p>Beverly Bravo, University of the City of Muntinlupa and Concentrix Accessibility Support Team, PH</p>
+        <p>Jennifer Teves, Teladoc Health, USA</p>
+        <p>Nicko Reginio Caluya, Ritsumeikan University, JP</p>
         <p>Richard Lance Parayno, University of Salzburg, AT and Hostari, USA</p>
     </div>
 
