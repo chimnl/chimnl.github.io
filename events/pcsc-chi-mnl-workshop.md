@@ -122,6 +122,7 @@ title: "CHI MNL | Call for Papers: Transforming HCI Research in the Philippines 
         <p>Isido Butaslac, University of Science and Technology of Southern Philippines, PH</p>
         <p>Beverly Bravo, University of the City of Muntinlupa and Concentrix Accessibility Support Team, PH</p>
         <p>Giselle Nodalo, Metrobank, PH</p>
+        <p>Kristine Adlaon, University of Immaculate Concepcion, PH</p>
         <p>Jennifer Teves, Teladoc Health, USA</p>
         <p>Nicko Reginio Caluya, Ritsumeikan University, JP</p>
         <p>Richard Lance Parayno, University of Salzburg, AT and Hostari, USA</p>
